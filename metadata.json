@@ -1,0 +1,5 @@
+{
+  "name": "Physics Builder 3D",
+  "description": "A 3D physics simulation where you can build and destroy a 4 or 5-story building, grab objects with your mouse, and rebuild instantly.",
+  "requestFramePermissions": []
+}
